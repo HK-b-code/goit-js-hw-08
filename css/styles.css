@@ -33,3 +33,7 @@ body {
 .basicLightbox--visible {
   background: rgba(46, 47, 66, 0.8) !important;
 }
+
+.basicLightbox {
+  cursor: url('../cursor.png') 12 3, pointer;
+}
